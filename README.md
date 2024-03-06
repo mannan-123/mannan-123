@@ -1,4 +1,4 @@
-![logo]<p align="center">
+<p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdno2bWsxaXJ4eHFuY2x6eDgxYTMyNDRjZnp6bDloaGdoMHhoMzZ5ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUA7bdpLxQhsSQdyog/giphy.gif" alt="logo"/>
 </p>
 <h1 align="center">Hi 👋, I'm Abdul Mannan</h1>

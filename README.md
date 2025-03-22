@@ -9,17 +9,17 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mannan-123&label=Profile%20views&color=0e75b6&style=flat" alt="mannan-123" /> </p>
 
 
-- 🔭 I’m currently working on **Web development**
+- 🔭 I’m currently working on **AI/ML**
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **GenAI**
 
 - 👨‍💻 All of my projects are available at [https://github.com/mannan-123](https://github.com/mannan-123)
 
-- 💬 Ask me about **HTML, CSS and Javascript**
+- 💬 Passionate about **Machine Learning, Deep Learning, Computer Vision, NLP*.*
 
 - 📫 How to reach me **manan2492@gmail.com**
 
-- ⚡ Fun fact **I find it challenging to look for solutions on Stack Overflow.**  
+- ⚡ Emerging in **Django, MERN, Flutter  **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

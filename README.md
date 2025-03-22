@@ -15,11 +15,11 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/mannan-123](https://github.com/mannan-123)
 
-- 💬 Passionate about **Machine Learning, Deep Learning, Computer Vision, NLP*.*
+- 💬 Passionate about **Machine Learning, Deep Learning, Computer Vision,** and **NLP.**
 
 - 📫 How to reach me **manan2492@gmail.com**
 
-- ⚡ Emerging in **Django, MERN, Flutter  **
+- ⚡ Emerging in **Django, MERN,** and **Flutter**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

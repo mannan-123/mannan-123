@@ -7,7 +7,7 @@
 
 ### About Me  
 **Associate Software Engineer (AI)** at [xIQ](https://xiqinc.com)  
-Ex–ML/AI Engineer | Ex-GenAI Intern
+Ex–ML/AI Engineer | Ex-GenAI Intern <br>
 Building next-gen **AI, ML, and LLM-powered systems** that connect humans and technology seamlessly.  
 Passionate about **Generative AI**, **RAG systems**, **AI Agents**, and **Intelligent Interfaces**.  
 

@@ -89,7 +89,7 @@ Passionate about **Generative AI**, **RAG systems**, **AI Agents**, and **Intell
 | Company | Role | Duration | Focus |
 |----------|------|-----------|-------|
 |  **xIQ** | Associate Software Engineer (AI) | Oct 2025 – Present | Backend for AI-powered Sales Intelligence |
-| ⚡ **Raythorne** | ML/AI Engineer | Aug 2025 – Oct 2025 | GNNs & Predictive Diagnostics |
+| **Raythorne** | ML/AI Engineer | Aug 2025 – Oct 2025 | GNNs & Predictive Diagnostics |
 |  **Xavor Corporation** | GenAI Intern | Jun 2024 – Aug 2024 | LLMs, RAG, and Medical AI Simulation |
 | **Upwork** | AI/ML Freelancer | Apr 2023 – Jul 2024 | Delivering custom ML, NLP, and automation solutions to global clients |
 | **Fiverr** | Level 1 Seller | Dec 2022 – Jul 2024 | Providing AI-driven automation and solutions, recognized as **Fiverr Choice** |
